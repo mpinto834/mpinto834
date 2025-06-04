@@ -1,4 +1,3 @@
-## Hi there 👋
 # mpinto  
 # Hello, I am [Mário]!
 I am a computer engineering student and passionate about technology!  
