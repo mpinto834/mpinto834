@@ -4,7 +4,7 @@ I am a computer engineering student and passionate about technology!
 
 🌱 Currently learning **Machine Learning** and **Data Science**, while working on related projects to deepen my understanding.   
 
-### Connect with me:  
+### 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/patrick-novato-da-silva-86830615b/](https://www.linkedin.com/in/m%C3%A1rio-pinto-183522320/))  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlmtpinto@gmail.com)  
 
 ### Technologies and Tools:  
